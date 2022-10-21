@@ -1,0 +1,3 @@
+/home/aleks/Desktop/pea_1/cmake-build-debug/CMakeFiles/pea_1.dir
+/home/aleks/Desktop/pea_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/aleks/Desktop/pea_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
